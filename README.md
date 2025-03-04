@@ -1,2 +1,2 @@
-# curso-teste-software
-Curso Completo de Teste de Software com Java e JavaScript
+# Curso Completo de Teste de Software
+Este repositório contém materiais e códigos do curso.
